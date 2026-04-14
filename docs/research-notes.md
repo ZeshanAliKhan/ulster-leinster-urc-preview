@@ -27,6 +27,15 @@ Live updates policy:
 - It does not scrape or copy official live commentary.
 - If a licensed or authorized data source is added later, the JSON can be updated from that source before publishing.
 
+Image note:
+
+- Added an edited real venue photo from Wikimedia Commons: `Ravenhill Stadium, West Terrace, Belfast.jpg`.
+- Author: Kanbers.
+- License: CC BY-SA 3.0 / GFDL.
+- Changes made: cropped, color-treated, gradient-bordered, compressed to WebP, and site URL text added.
+- Source: https://commons.wikimedia.org/wiki/File:Ravenhill_Stadium,_West_Terrace,_Belfast.jpg
+- License: https://creativecommons.org/licenses/by-sa/3.0/
+
 Sources checked:
 
 - https://www.unitedrugby.com/
