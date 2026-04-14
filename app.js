@@ -69,7 +69,6 @@
           <div><span>Last updated</span><strong>${formatDate(data.lastUpdated)}</strong></div>
         </div>
         <ul class="note-list">${notes.map((note) => `<li>${note}</li>`).join("")}</ul>
-        <p class="small-note">Refresh this page after the local update file is changed and pushed.</p>
       </div>
     `;
   }
