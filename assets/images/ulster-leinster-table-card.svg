@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-label="Ulster Leinster URC table context card">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfcf8"/>
+      <stop offset="1" stop-color="#edf8f4"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b6b63"/>
+      <stop offset="0.55" stop-color="#a9153c"/>
+      <stop offset="1" stop-color="#e0ba38"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="520" fill="#fbfcf8"/>
+  <rect x="34" y="34" width="752" height="452" rx="26" fill="url(#cardbg)" stroke="url(#edge)" stroke-width="8"/>
+  <text x="74" y="104" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900">URC Table Snapshot</text>
+  <text x="74" y="144" fill="#62645e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Research note: April 14, 2026</text>
+  <rect x="74" y="190" width="672" height="82" rx="16" fill="#ffffff" stroke="url(#edge)" stroke-width="5"/>
+  <circle cx="116" cy="231" r="23" fill="#06433f"/>
+  <text x="116" y="239" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900">3</text>
+  <text x="168" y="241" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">Ulster Rugby</text>
+  <text x="704" y="241" text-anchor="end" fill="#a9153c" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">47 pts</text>
+  <rect x="74" y="298" width="672" height="82" rx="16" fill="#ffffff" stroke="url(#edge)" stroke-width="5"/>
+  <circle cx="116" cy="339" r="23" fill="#06433f"/>
+  <text x="116" y="347" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900">4</text>
+  <text x="168" y="349" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">Leinster Rugby</text>
+  <text x="704" y="349" text-anchor="end" fill="#0b6b63" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">46 pts</text>
+  <rect x="74" y="414" width="672" height="36" rx="18" fill="#e0ba38" stroke="url(#edge)" stroke-width="3"/>
+  <text x="410" y="439" text-anchor="middle" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900">One-point derby pressure at Affidea Stadium</text>
+  <text x="744" y="472" text-anchor="end" fill="#62645e" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800">zeshanalikhan.github.io/ulster-leinster-urc-preview</text>
+</svg>

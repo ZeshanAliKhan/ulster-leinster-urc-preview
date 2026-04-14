@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-label="Ulster Rugby vs Leinster Rugby preview graphic">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfcf8"/>
+      <stop offset="0.48" stop-color="#edf8f4"/>
+      <stop offset="1" stop-color="#fff7f2"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b6b63"/>
+      <stop offset="0.55" stop-color="#a9153c"/>
+      <stop offset="1" stop-color="#e0ba38"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="12" dy="14" stdDeviation="0" flood-color="#1f211b" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <rect x="34" y="34" width="832" height="552" rx="28" fill="#ffffff" stroke="url(#stripe)" stroke-width="8" filter="url(#shadow)"/>
+  <rect x="70" y="72" width="760" height="92" rx="14" fill="#06433f"/>
+  <text x="94" y="128" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">ULSTER RUGBY vs LEINSTER RUGBY</text>
+  <text x="95" y="198" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800">BKT United Rugby Championship - Round 15</text>
+  <rect x="72" y="232" width="332" height="208" rx="18" fill="#fff7fb" stroke="url(#stripe)" stroke-width="5"/>
+  <rect x="496" y="232" width="332" height="208" rx="18" fill="#f3fbf8" stroke="url(#stripe)" stroke-width="5"/>
+  <circle cx="236" cy="306" r="54" fill="#a9153c" stroke="url(#stripe)" stroke-width="6"/>
+  <circle cx="664" cy="306" r="54" fill="#0b6b63" stroke="url(#stripe)" stroke-width="6"/>
+  <text x="236" y="321" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">U</text>
+  <text x="664" y="321" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">L</text>
+  <text x="236" y="397" text-anchor="middle" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">Ulster</text>
+  <text x="664" y="397" text-anchor="middle" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">Leinster</text>
+  <rect x="413" y="270" width="74" height="132" rx="16" fill="#e0ba38" stroke="url(#stripe)" stroke-width="5"/>
+  <text x="450" y="324" text-anchor="middle" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">APR</text>
+  <text x="450" y="367" text-anchor="middle" fill="#1f211b" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">17</text>
+  <rect x="72" y="474" width="756" height="58" rx="16" fill="url(#stripe)"/>
+  <text x="450" y="512" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="900">Affidea Stadium - 7:45 PM local / 2:45 PM ET</text>
+  <text x="804" y="562" text-anchor="end" fill="#62645e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">zeshanalikhan.github.io/ulster-leinster-urc-preview</text>
+</svg>

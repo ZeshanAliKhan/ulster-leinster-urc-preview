@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="zPeMqoo2h3M_oqIertTkiu1rAj5quQBwW_J42bXbuFM">
+    <title>Ulster vs Leinster Live Updates Board</title>
+    <meta name="description" content="Safe live update board for Ulster Rugby vs Leinster Rugby using local original notes and a JSON data file rather than copied official commentary.">
+    <link rel="canonical" href="https://zeshanalikhan.github.io/ulster-leinster-urc-preview/pages/live-updates.html">
+    <link rel="stylesheet" href="../styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a class="brand" href="../index.html"><span class="brand-mark">UL</span><span>URC Derby Notes</span></a>
+        <nav class="nav-links" aria-label="Main navigation">
+          <a href="match-preview.html">Preview</a>
+          <a href="how-to-watch.html">Time</a>
+          <a href="table-context.html">Table</a>
+          <a href="live-updates.html">Live</a>
+          <a href="faq.html">FAQ</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <article class="article">
+        <span class="eyebrow">Live updates</span>
+        <h1>Ulster vs Leinster live update board.</h1>
+        <p class="lede">This page is built for matchday updates, but it avoids copied official live commentary. It reads from our own `data/live-updates.json` file and can be refreshed with original notes or authorized data.</p>
+        <div data-live-root>
+          <div class="live-card">
+            <p class="eyebrow">Live update board</p>
+            <h2>Loading match board</h2>
+            <p>If the board does not load, the match is scheduled for Friday, April 17, 2026 at 7:45 PM local time at Affidea Stadium.</p>
+          </div>
+        </div>
+        <p class="small-note">When the match is live, update `data/live-updates.json` with original score/status notes, then push the JSON change to GitHub. GitHub Pages will serve the refreshed data after deployment.</p>
+      </article>
+    </main>
+    <footer class="site-footer"><div class="footer-inner"><p>&copy; <span data-year>2026</span> URC Derby Notes.</p></div></footer>
+    <script src="../app.js" defer></script>
+  </body>
+</html>
