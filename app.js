@@ -32,10 +32,9 @@
     kickoffLocal: "2026-04-17T19:45:00+01:00",
     venue: "Affidea Stadium, Belfast",
     lastUpdated: "2026-04-14T00:00:00-07:00",
-    officialMatchCentre: "https://www.espn.com/rugby/match/_/gameId/602641/league/270557",
     notes: [
       "The match is scheduled for Friday, April 17, 2026 at 7:45 PM Belfast time.",
-      "This page uses original notes and local JSON updates rather than copied official live commentary."
+      "This page uses original notes and local JSON updates."
     ]
   };
 
@@ -70,7 +69,7 @@
           <div><span>Last updated</span><strong>${formatDate(data.lastUpdated)}</strong></div>
         </div>
         <ul class="note-list">${notes.map((note) => `<li>${note}</li>`).join("")}</ul>
-        <a class="button secondary" href="${data.officialMatchCentre}" rel="nofollow noopener" target="_blank">Official match centre</a>
+        <p class="small-note">Refresh this page after the local update file is changed and pushed.</p>
       </div>
     `;
   }
